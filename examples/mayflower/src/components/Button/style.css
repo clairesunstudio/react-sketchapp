@@ -1,0 +1,5 @@
+.ma__button.ma__button--secondary.ma__button--minor {
+  color: #3A8260; }
+  .ma__button.ma__button--secondary.ma__button--minor:hover {
+    color: white;
+    background-color: #3A8260; }
